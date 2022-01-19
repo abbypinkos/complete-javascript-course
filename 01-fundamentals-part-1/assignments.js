@@ -25,7 +25,6 @@ const country = 'United States of America';
 // Const cannot be reassinged; causes an error
 // country = 'Mexico'
 let population = '332';
-*/
 
 ////////////////////////////////////
 // LECTURE: Basic Operators
@@ -40,3 +39,4 @@ console.log(population > 33);
 const language = 'English';
 const description = country + ' is in ' + continent + ', and its ' + population + ' million people speak ' + language;
 console.log(description);
+*/
